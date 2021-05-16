@@ -7,6 +7,8 @@ A simple screenshot APP which can take screenshots continuously in selected area
 
 截图区域可拖拽重新选择
 
+Alt+Tab可切换窗口
+
 多次按Enter键可连续截图
 
 按Esc键退出
